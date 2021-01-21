@@ -86,6 +86,7 @@ public class RapportVisiteurApplication {
 		rapportService.createRapportVisiteur(visiteur1, rapport1);
 		System.out.println(visiteur1.getRapport());
 	
+		//une modification -test
 		
 	}
 }
